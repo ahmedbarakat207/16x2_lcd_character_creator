@@ -3,7 +3,7 @@ import tkinter as tk
 class LCDArtApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Pro LCD Character Designer")
+        self.root.title("16x2 LCD Character Creator")
         self.root.configure(bg="#2c3e50")
         
         self.OFF_COLOR = "#34495e" 

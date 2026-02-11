@@ -1,8 +1,8 @@
 # 16x2_lcd_character_creator
-a simple python tool to create 8x5 Characters for 16x2 Displays
+A simple python tool to create 8x5 Characters for 16x2 Displays
+Works with Arduino UNO/Nano/Mega (or basically anything that just supports the 16x2 lcd module)
 
-
-# How to use
+# How to Use
 
 1. Launch the file using ```python3 main.py```
 2. Create the Character

@@ -20,3 +20,7 @@ Works with Arduino UNO/Nano/Mega (or basically anything that just supports the 1
      lcd.print(" Now Playing");
    }
    ```
+
+# Screenshot
+
+<img width="1123" height="513" alt="Screenshot 2026-02-21 at 12 35 05 PM" src="https://github.com/user-attachments/assets/8c9557c4-0f39-48b8-9554-b1c9d9c69be2" />
